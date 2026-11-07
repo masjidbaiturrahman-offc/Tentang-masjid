@@ -1,0 +1,23 @@
+UPLOAD KE REPOSITORY GITHUB ANDA
+
+Struktur file yang benar di folder utama (root):
+index.html
+galeri.html
+style.css
+script.js
+masjid-1.png
+dkm-logo.jpg
+logo-irmas.png
+
+Screenshot repository Anda menunjukkan file bernama indeks.html dan gaya.css.
+GitHub Pages membutuhkan index.html sebagai halaman utama. Paket ini sudah memakai nama index.html dan style.css.
+
+LANGKAH:
+1. Ekstrak ZIP ini.
+2. Buka repository GitHub Anda.
+3. Upload semua file dari ZIP ke folder utama repository (root), jangan ke folder baru.
+4. Jika diminta, pilih Replace files untuk file yang namanya sama.
+5. Pastikan index.html berada sejajar dengan galeri.html dan style.css.
+6. Commit changes, tunggu GitHub Pages selesai deploy, lalu refresh website.
+
+File foto 1.jpg, 2.jpg, 3.jpg, 6.jpg, dan 7.jpg yang sudah ada di repository tidak perlu dihapus.
